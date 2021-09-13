@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="name">Name</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="description">Description</string>
+    <string name="imgmovie">Image Movie</string>
+</resources>
