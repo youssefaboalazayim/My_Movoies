@@ -33,8 +33,6 @@ import com.example.mymovies.R;
 
 
 
-    }
-
 
 
  }
